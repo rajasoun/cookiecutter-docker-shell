@@ -1,4 +1,4 @@
-include ../make/Makefile
+include ../../make/Makefile
 
 REGISTRY_HOST=$(REGISTRY_HOST_URL)
 USERNAME=$(USER)
