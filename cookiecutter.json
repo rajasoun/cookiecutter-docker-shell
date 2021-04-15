@@ -2,6 +2,7 @@
     "project_name": "",
     "project_slug": "{{ cookiecutter.project_name.lower() }}",
     "project_description": "",
+    "docker_shell": "",
     "security_mailer": "",
     "author_full_name": ""
 }

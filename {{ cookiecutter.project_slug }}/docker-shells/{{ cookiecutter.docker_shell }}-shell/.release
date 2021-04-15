@@ -1,0 +1,2 @@
+release=0.0.0
+tag={{cookiecutter.docker_shell}}-shell-0.0.0
