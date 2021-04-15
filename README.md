@@ -1,9 +1,6 @@
 # Getting Started
 
-Docker Shell as an Integrated Development Environment for 
-1. AWS CLI
-2. SFDX CLI
-
+Cookiecutter project for docker shell tools
 
 ### Prerequisites
 1. [Docker](https://www.docker.com/)
@@ -20,7 +17,7 @@ Once finished, navigate to your new project folder :
 cd <project_name>
 ```
 
-Refer SLS.md
+Refer SLS.md*
 
-SLS - Shift Left Security
+*SLS - Shift Left Security
 
